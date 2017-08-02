@@ -1,1 +1,0 @@
-KeymanWeb.KRS(new Stub_Keyboard_el_dari()); function Stub_Keyboard_el_dari() {this.KF="el_dari-1.0.js";this.KI="Keyboard_el_dari";this.KN="Dari (CLRA)";}
